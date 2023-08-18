@@ -1,21 +1,11 @@
 /**
-░██████╗░██╗░░░██╗███████╗███████╗███╗░░██╗  ░█████╗░███╗░░░███╗██████╗░██╗
-██╔═══██╗██║░░░██║██╔════╝██╔════╝████╗░██║  ██╔══██╗████╗░████║██╔══██╗██║
-██║██╗██║██║░░░██║█████╗░░█████╗░░██╔██╗██║  ███████║██╔████╔██║██║░░██║██║
-╚██████╔╝██║░░░██║██╔══╝░░██╔══╝░░██║╚████║  ██╔══██║██║╚██╔╝██║██║░░██║██║
-░╚═██╔═╝░╚██████╔╝███████╗███████╗██║░╚███║  ██║░░██║██║░╚═╝░██║██████╔╝██║
-░░░╚═╝░░░░╚═════╝░╚══════╝╚══════╝╚═╝░░╚══╝  ╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═════╝░╚═╝
- __  __       _ _   _       ____             _          
-|  \/  |_   _| | |_(_)     |  _ \  _____   _(_) ___ ___ 
-| |\/| | | | | | __| |_____| | | |/ _ \ \ / / |/ __/ _ \
-| |  | | |_| | | |_| |_____| |_| |  __/\ V /| | (_|  __/
-|_|  |_|\__,_|_|\__|_|     |____/ \___| \_/ |_|\___\___|
-* @project_name Queen Amdi [WA Multi-device]
+
+* @project_name Saad's Bot
 * @author BlackAmda <https://github.com/BlackAmda>
 * @description A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience
 * @link <https://github.com/BlackAmda/QueenAmdi>
 * @version 4.0.8
-* @file  _amdi_menu.js - QueenAmdi bot main menu
+* @file  _amdi_menu.js - Saad's Boti bot main menu
 
 © 2022 Black Amda, ANTECH. All rights reserved.
 Licensed under the  GPL-3.0 License;
