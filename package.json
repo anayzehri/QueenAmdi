@@ -1,5 +1,5 @@
 {
-    "name": "Saad's Bot",
+    "name": "saads-bot",
     "version": "4.0.8",
     "description": "Saad's bot [WA Multi-device] - A WhatsApp based third party application that provide many services with a real-time automated conversational experience.",
     "main": "./assets/amdiModule.js",
@@ -27,31 +27,6 @@
     },
     "homepage": "https://github.com/BlackAmda/QueenAmdi#readme",
     "dependencies": {
-        "@adiwajshing/baileys": "git+https://github.com/AN-Tech-Crew/BaileysForQueenAmdi.git#3e8a609ad9779ee2ac1726bd63c9736f69231c48",
-        "@adiwajshing/keyed-db": "^0.2.4",
-        "@blackamda/song_video_dl": "^1.1.0",
-        "@blackamda/telegram-image-url": "^1.0.0",
-        "@hapi/boom": "^10.0.0",
-        "axios": "^1.3.1",
-        "cheerio": "^1.0.0-rc.12",
-        "dotenv": "^16.0.3",
-        "express": "^4.18.2",
-        "ffmpeg": "^0.0.4",
-        "fluent-ffmpeg": "^2.1.2",
-        "got": "^11.8.2",
-        "https": "1.0.0",
-        "link-preview-js": "^3.0.4",
-        "moment": "2.29.4",
-        "node-fetch": "2.6.9",
-        "path": "0.12.7",
-        "pg": "^8.9.0",
-        "qrcode": "^1.5.1",
-        "qrcode-terminal": "^0.12.0",
-        "queen_amdi_core": "^1.4.3",
-        "queen-amdi-wa-sticker": "^1.0.1",
-        "request": "^2.88.2",
-        "sharp": "^0.30.5",
-        "simple-git": "^3.16.0",
-        "translatte": "^3.0.1"
+        // Your dependencies here...
     }
 }
